@@ -1,0 +1,14 @@
+.Container{
+    border: 1px solid blue;
+    /* height: 400px; */
+    width: 400px;
+}
+
+.text{
+text-align: initial;
+}
+.age{
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
